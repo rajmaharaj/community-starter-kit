@@ -2,10 +2,10 @@
 
 DESCRIPTION PLACEHOLDER
 
-## What it does
+## What it does: This is a test probot!
 
 FEATURES PLACEHOLDER
 
-## Getting started
+## Getting started: Take a deep breath and dive in!
 
 
